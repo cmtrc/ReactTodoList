@@ -1,0 +1,16 @@
+body {
+    padding: 50px;
+    background-color: #E7D0BD;
+    font-family: 'Courier New', Courier, monospace;
+}
+#container {
+    display: flex;
+    justify-content: center;
+}
+
+h1 {
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+    letter-spacing: 10px;
+    margin-bottom: 30px;
+}
