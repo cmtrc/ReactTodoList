@@ -1,3 +1,9 @@
+# React: To Do List 
+
+Made a To Do List App in React by using the tutorial found on:
+https://www.kirupa.com/react/simple_todo_app_react.htm
+ _____
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
